@@ -24,5 +24,5 @@ This project focuses on **eye state monitoring (open vs. closed)** using EEG sig
   * Other eye-state dependent systems
 
 
-Do you want me to do that next?
+
  
