@@ -1,6 +1,6 @@
 # EEG-Based Eye State Monitoring Using Artifact Features
 
-This project focuses on **eye state monitoring (open vs. closed)** using EEG signals. Unlike conventional EEG preprocessing approaches that remove EMG artifacts as noise, this project leverages EMG-related artifacts as **useful features** for differentiating eye states.
+This project focuses on eye state monitoring (open vs. closed) using EEG signals. Unlike conventional EEG preprocessing approaches that remove EMG artifacts as noise, this project leverages EMG-related artifacts as useful features for differentiating eye states. Specifically, EMG artifacts recorded from frontal electrodes AF3 and AF4, arranged according to the 10–20 EEG system, are used as discriminative features. These artifacts reflect muscle activity near the eyes during blinking and eye closure, providing valuable information for eye state classification.
 
 ## Key Features
 
@@ -24,5 +24,7 @@ This project focuses on **eye state monitoring (open vs. closed)** using EEG sig
   * Other eye-state dependent systems
 
 
-
+## Model Evaluation 
+<!-- Add your portfolio front page image here -->
+![Model Evaluation ](Assets/model_evaluation.png)
  
