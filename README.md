@@ -26,5 +26,5 @@ This project focuses on eye state monitoring (open vs. closed) using EEG signals
 
 ## Model Evaluation 
 <!-- Add your portfolio front page image here -->
-![Model Evaluation ](Assets/model_evaluation.png)
+![Model Evaluation ](Assets/model_evalution.png)
  
